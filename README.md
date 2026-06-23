@@ -22,7 +22,7 @@ The result is a compact, modular platform for exploring biomimetic manipulation,
 
 
 
-## Project Goals
+#### Project Goals
 
 HAND‑E was designed as a full-stack robotics system with a strong emphasis on software-driven control, biomimetic motion, and research‑level engineering principles.  
 The primary goals of the project were:
