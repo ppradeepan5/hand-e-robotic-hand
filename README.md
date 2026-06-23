@@ -882,8 +882,9 @@ Useful for tuning or diagnosing sensor issues.
 **No movement**  
 - Check I²C wiring (SDA/SCL)  
 - Confirm PCA9685 is powered  
-- Verify servo rail voltage  
-
+- Verify servo rail voltage
+  
+---
 ## 🎥 Demo & Media
 
 <img width="825" height="548" alt="image" src="https://github.com/user-attachments/assets/9afa9f26-280b-4179-a990-e92235a2b30b" />
