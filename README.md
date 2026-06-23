@@ -891,7 +891,6 @@ Useful for tuning or diagnosing sensor issues.
 
 <img width="1000" height="1123" alt="image" src="https://github.com/user-attachments/assets/d21fc661-35d6-4c26-bf10-d0368fb1a970" />
 
-<img width="1000" height="1123" alt="image" src="https://github.com/user-attachments/assets/383e8805-b687-4549-bcbd-23da93f746bd" />
 
 ---
 ##  Future Improvements
