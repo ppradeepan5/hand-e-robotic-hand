@@ -187,7 +187,7 @@ The architecture is intentionally modular:
 
 HAND‑E is designed as a **platform**, not a one‑off prototype.
 
-
+---
 
 ##  Mechanical Design & CAD Iteration
 
@@ -294,7 +294,7 @@ The mechanical design also considers:
 
 This makes HAND‑E not just a one‑off prototype, but maintainable and scalable for future experiments.
 
-
+---
 
 ##  Electronics & PCB Design
 
@@ -626,9 +626,9 @@ One known limitation of the current firmware is that **occasional ADC samples ma
 
 Another intentional design choice is the use of a **fixed‑rate control loop** rather than a fully interrupt‑driven architecture. While interrupts could reduce latency further, they also introduce complexity and potential jitter when combined with I²C operations. The current design prioritises **deterministic behaviour, simplicity, and stability**, which are more important for tendon‑driven actuation than micro‑optimised timing.
 
+---
 
-
-## 📊 Signal Processing & Calibration
+## Signal Processing & Calibration
 
 Signal processing is one of the most important parts of HAND‑E.  
 Flex sensors are inherently noisy, non‑linear, and sensitive to mechanical mounting, so the system uses a multi‑stage filtering and calibration pipeline to produce stable, human-like motion.
@@ -756,7 +756,7 @@ produces motion that is:
 
 This is what makes HAND‑E feel like a **coherent robotic system**, not a set of independent servos.
 
-
+---
 
 
 ## 🛠️ Build & Run
@@ -892,7 +892,7 @@ Useful for tuning or diagnosing sensor issues.
 
 <img width="1000" height="1123" alt="image" src="https://github.com/user-attachments/assets/383e8805-b687-4549-bcbd-23da93f746bd" />
 
-
+---
 ##  Future Improvements
 
 HAND‑E is designed as a modular platform, and several extensions can significantly enhance its capability, robustness, and research value.
