@@ -20,9 +20,8 @@ Unlike a typical student project, HAND‑E was built end‑to‑end as a complet
 
 The result is a compact, modular platform for exploring biomimetic manipulation, human‑to‑robot motion mapping, and tendon‑driven actuation — the same principles used in modern humanoid robotics research.
 
-
-
-#### Project Goals
+---
+## Project Goals
 
 HAND‑E was designed as a full-stack robotics system with a strong emphasis on software-driven control, biomimetic motion, and research‑level engineering principles.  
 The primary goals of the project were:
@@ -78,6 +77,7 @@ The current system is engineered to be modular and scalable so these capabilitie
 
 
 
+---
 
 ##  System Architecture
 
